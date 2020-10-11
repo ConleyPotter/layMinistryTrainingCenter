@@ -8,5 +8,8 @@
   "private": true,
   "scripts": {
     "dev": "next"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
   }
 }
