@@ -5,5 +5,8 @@
   "repository": "https://github.com/ConleyPotter/layMinistryTrainingCenter.git",
   "author": "Conley Potter <conley.potter@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "dev": "next"
+  }
 }
