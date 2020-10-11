@@ -1,0 +1,9 @@
+{
+  "name": "lay_ministry_training_center",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ConleyPotter/layMinistryTrainingCenter.git",
+  "author": "Conley Potter <conley.potter@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
